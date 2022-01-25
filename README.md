@@ -1,7 +1,7 @@
 # A03 Readme File 
 
 
-##Webstorem, Git, and Github##
+## Webstorem, Git, and Github ##
 the first step that you need to do is to install webstorm. Webstorm is an IDE that is primarily used for HTML, CSS, and Java script. \
 \
 To do this you will need a jetbrains account to  do this user your NJIT email and follow the steps that is prompted. \
