@@ -1,8 +1,19 @@
 # A03 Readme File 
 
 
+##Webstorem, Git, and Github##
+the first step that you need to do is to install webstorm. Webstorm is an IDE that is primarily used for HTML, CSS, and Java script. \
+\
+To do this you will need a jetbrains account to  do this user your NJIT email and follow the steps that is prompted. \
+\
+After that you need to make sure that you have an github account. For this also user your NJIT account and follow the prompts. \
+\
+After webstorm is downleded you need to make sure that you have GIT on your laptop. Since I am using Mac OS, git comes insalled already. To make sure that you have git you can use the following command: `git version--`: 
+Since I have git insalled, when I run the command it gives me git **version 2.33.0**\
+\
+In webstorm, you can go to your pfrences tab and then add your GitHub account to the version controle system that you want. It will ask you to sign in to your Github account again just to authorize it. 
 
-
+After you do this you will be able to push, pull, and  commit your code using websotrm. 
 
 ## Glossary ## 
 **GIT**: software for tracking changes in any set of files,\
